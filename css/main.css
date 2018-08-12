@@ -1606,9 +1606,7 @@ hr {
 /* Team Section
 /* -------------------------------------------------------------------- */
 #about #team {
-	background: #ecf0f1;
-	margin-top: 66px;
-	padding-top: 78px;
+	background: white;
 	padding-bottom: 120px;
 }
 #team-wrapper {
