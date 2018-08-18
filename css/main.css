@@ -832,7 +832,7 @@ header .logo a {
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
-		background-image: url("../images/logo-@2x.png");
+		background-image: url("../images/logo.png");
 		-webkit-background-size: 176px 24px;
 		-moz-background-size: 176px 24px;
 		background-size: 176px 24px;
@@ -1081,6 +1081,7 @@ footer ul li a, footer ul li a:visited {
 	color: #3C4142;
 }
 footer .copyright {
+	color: #d7d7d7;
 	margin: 0;
 	padding: 24px 18px 6px 18px;
 	clear: both;
