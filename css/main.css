@@ -1733,7 +1733,7 @@ hr {
 }
 #contact label {
 	font: 14px/30px "raleway-heavy", sans-serif;
-	color: #7d7e80;
+/*	color: #7d7e80; */
 	display: none;
 }
 #contact label span {
